@@ -1,8 +1,8 @@
-# Sensei Draw
+# DrawAIng
 
 ## Introduction
 
-Sensei Draw is a ML based solution for autocompletion of sketches. It predicts finished sketches based on rough sketches drawn by user.
+DrawAIng is a ML based solution for autocompletion of sketches. It predicts finished sketches based on rough sketches drawn by user.
 
 ## Tech used 
 
