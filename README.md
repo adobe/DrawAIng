@@ -21,7 +21,7 @@ DrawAIng is a ML based solution for autocompletion of sketches. It predicts fini
     pages = {44:1--44:10}
   }
 
-## Usage
+## Usage 
 
 1. Clone the repository
 2. Download Model from : 
