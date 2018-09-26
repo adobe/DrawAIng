@@ -1,5 +1,11 @@
 # DrawAIng
 
+### Authors and Maitainers
+Nandan Jha ( @jhanandan )
+Sourabh Gupta ( @sourabhgupta01 )
+Vikas Kumar ( @vikasmishra11 )
+Piyush Singh ( @singpiyush )
+
 ## Introduction
 
 DrawAIng is a ML based solution for autocompletion of sketches. It predicts finished sketches based on rough sketches drawn by user.
