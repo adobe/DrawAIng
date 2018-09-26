@@ -1,6 +1,6 @@
 # DrawAIng
 
-### Authors and Maitainers
+### Authors and Maintainers
 * Nandan Jha ( @jhanandan )
 * Sourabh Gupta ( @sourabhgupta01 )
 * Vikas Kumar ( @vikasmishra11 )
