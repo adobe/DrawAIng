@@ -1,10 +1,10 @@
 # DrawAIng
 
 ### Authors and Maitainers
-Nandan Jha ( @jhanandan )
-Sourabh Gupta ( @sourabhgupta01 )
-Vikas Kumar ( @vikasmishra11 )
-Piyush Singh ( @singpiyush )
+* Nandan Jha ( @jhanandan )
+* Sourabh Gupta ( @sourabhgupta01 )
+* Vikas Kumar ( @vikasmishra11 )
+* Piyush Singh ( @singpiyush )
 
 ## Introduction
 
