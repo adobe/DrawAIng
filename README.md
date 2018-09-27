@@ -46,3 +46,5 @@ This project is licensed under the Apache V2 License. See [LICENSE](LICENSE) for
 * Sourabh Gupta ( @sourabhgupta01 )
 * Vikas Kumar ( @vikasmishra11 )
 * Piyush Singh ( @singpiyush )
+* Nischaya Arya
+* Rachit Gupta
